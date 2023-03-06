@@ -15,7 +15,7 @@ const About = () => {
     <div className="container about_container">
       <div className="about_me">
         <div className="about_me-image">
-          <img src={ME} alt="About Image" />
+          <img src={ME} alt="photo About Me" />
         </div>
 
       </div>
@@ -40,7 +40,7 @@ const About = () => {
         <p>
         I am a talented and ethusiastic personnel with a great aptitude to work
         in an environment which encourages me to succeed and grow
-        professionally where I can utilize my skills and knowledge
+        professionally where I can utilize my skills and knowledge.
         appropriately
         </p>
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>
