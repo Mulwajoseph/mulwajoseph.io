@@ -41,7 +41,7 @@ const Contact = () => {
     //       <article className='contact_option'>
     //         <BsWhatsapp className='contact_option-icon'/>
     //         <h4>Whatsapp</h4>
-    //         <h5>+123456789</h5>
+    //         <h5>+254790558088</h5>
     //         <a href='https://api.whatsapp.com/send?phone+254790558088' target ="_blank">Send a message</a>
     //       </article>
     //     </div>
@@ -77,7 +77,7 @@ const Contact = () => {
       <article className='contact_option'>
         <BsWhatsapp className='contact_option-icon'/>
         <h4>Whatsapp</h4>
-        <h5>+123456789</h5>
+        <h5>+254790558088</h5>
         <a href='https://api.whatsapp.com/send?phone+254790558088' target="_blank" rel="noreferrer">Send a message</a>
       </article>
     </div>
